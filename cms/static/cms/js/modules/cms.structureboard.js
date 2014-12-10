@@ -262,7 +262,7 @@ $(document).ready(function () {
 		// private methods
 		_showBoard: function () {
 			var that = this;
-			var interval = 10;
+			var interval = 1000;
 			var timer = function () {};
 
 			// show container
